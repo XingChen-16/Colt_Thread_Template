@@ -1,0 +1,96 @@
+[CENTER][IMG]https://github.com/ColtOS/manifest/blob/cos7.x/Banner.jpg?raw=true[/CENTER][/IMG]
+
+[SIZE="5"]About Us:[/SIZE]
+[LEFT]ColtOS Project is presented by a team of learners and it is crafted from lineage Source with optimal but all the necessary customization, without compromising the stability and security of the device.
+We have cherry-picked the features from many other roms/projects and we are very thankful to them!! The OS is still in beta phase and growing like a vine. 
+Although there's no remarkable bugs experienced by us or testers, if you find any, please let us know with a logcat.[/LEFT]
+
+[SIZE="5"]Feature List:[/SIZE]
+[B]ColtOS V2.0 [/B]
+[COLOR="#1976D2"][U]General[/U][/COLOR]
+* Android 8.0 
+* Security Update: 05 September 2017
+
+[HIDE][CODE]
+[COLOR="#1976D2"][U]About ColtOS[/U][/COLOR]
+* Changelog
+* Share ColtOS
+* Github
+* Google+
+* ColtOS Devices and Maintainers
+
+[/CODE][/HIDE]
+
+
+[SIZE="5"]Download Links:[/SIZE]
+
+[B][URL="https://XYZ"]ColtOS for DEVICE[/URL][/B]
+
+[SIZE="5"]Flashing Instructions:[/SIZE]
+[HIDE]
+
+[SIZE="4"]- [B]Verify that you're using the latest version of TWRP [/B]
+
+- [B]Perform a FULL WIPE as described below if coming from another ROM or a different version of Android[/B]
+   (A full wipe is when you wipe System + Data + Cache + Dalvik ART Cache)
+
+- [B]Flash the latest version of the ROM[/B]
+
+- [B]Flash recommended GAPPS linked below[/B]
+
+- [B]Flash Magisk if you want root[/B]
+
+- [B]Reboot and ENJOY!![/B][/SIZE]
+
+
+**[B][COLOR="Red"][SIZE="3"]If you fail to follow these instructions, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
+
+**[B][COLOR="Red"][SIZE="3"]If you use Xposed, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
+
+**[B][COLOR="Red"][SIZE="3"]If you use another kernel, please don't bother reporting any bugs[/SIZE][/COLOR][/B]**
+[/HIDE]
+
+[SIZE="5"][B][U]Other Links:[/U][/B][/SIZE]
+
+[B]ROM Source[/B] - [B][URL="https://github.com/Colt-Oreo"]ColtOS Source Codes[/URL][/B]
+
+[SIZE="5"]Kernel Source:[/SIZE] [B][URL="https://XYZ"]LineageOS Kernel[/URL][/B]
+
+[B]G+ Community[/B] - [B][URL="https://plus.google.com/u/0/communities/102067248475500399675"]ColtOS on Google Plus[/URL][/B]
+
+[B]Facebook Page[/B] - [B][URL="https://www.facebook.com/Colt0s/"]ColtOS on Facebook[/URL][/B]
+
+[B][SIZE="5"]Credit and Thanks:[/SIZE][/B]
+[HIDE]
+
+We would like to give thanks to everyone that contributes to the Android community, big or small because every bit counts. Although we can't list each and every contributor within the Android community, we would like to highlight some of the teams and individuals that have made it possible NOT only with just this version of COLT but throughout the years because we don't ever want to forget where we came from nor those that have helped us!
+
+That said, ColtOS team would like to THANK to....
+
+* [SIZE="3"]LineageOS/Cyanogenmod[/SIZE][/B] [URL]https://github.com/LineageOS[/URL]
+* [SIZE="3"]crDroid[/SIZE][/B] [URL]https://github.com/crdroidandroid[/URL]
+* [SIZE="3"]DirtyUnicorns[/SIZE][/B] [URL]https://github.com/DirtyUnicorns[/URL]
+* [SIZE="3"]ViperOS[/SIZE][/B] [URL]https://github.com/ViperOS-Project[/URL]
+* [SIZE="3"]ResurrectionRemix[/SIZE][/B] [URL]https://github.com/ResurrectionRemix[/URL]
+* [SIZE="3"]GZR-ValidusOS[/SIZE][/B] [URL]https://github.com/GZR-ValidusOS[/URL]
+* [SIZE="3"]GZOSP[/SIZE][/B] [URL]https://github.com/GZOSP[/URL]
+* [SIZE="3"]ParanoidAndroid[/SIZE][/B] [URL]https://github.com/AOSPA[/URL]
+* [SIZE="3"]AOSiP[/SIZE][/B] [URL]https://github.com/AOSIP[/URL]
+* [SIZE="3"]TeamSubstratum (Theme Engine)[/SIZE][/B] [URL]https://github.com/Substratum[/URL]
+* [SIZE="3"]Pure Nexus[/SIZE][/B] [URL]https://github.com/PureNexusProject[/URL]
+* [SIZE="3"]OmniROM[/SIZE][/B] [URL]https://github.com/omnirom[/URL]
+[/HIDE]
+
+**[B][SIZE="4"][COLOR="SeaGreen"]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/COLOR][/SIZE][/B]**
+
+[U][B][SIZE="4"]Our own #TeamColt[/U][/B][/SIZE]
+@Rakesh.Batra : Lead Developer and Founder of ColtOS
+@nitin.chobhe(Project Contibutor/Device Maintainer)
+@Roger.T(Graphics Designer)
+@HAKrBOY(Graphics Designer) ColtOS is beautiful just because of these two Guys:)
+@Nik_ (Project Contibutor/Device Maintainer)
+@meet1811 (The Saviour/Moderator)
+@Frozen_Lemon (Motivator/Tester:Made Default Ringtone)
+@AnupamDMoran (Motivator/Tester)
+@srvroxstar (Motivator/Tester)
+@SuperDroid-BOND (Device Maintainer)
